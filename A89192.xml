@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonel Mittons reply to Lievtenant Colonell Reinkings relation of the taking of Shrewesburie: which was printed without license, though said (in the title thereof) to be published by authority.</title>
+            <author>Mitton, Thomas, 1597?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89192</idno>
+            <idno type="STC">Wing M2297</idno>
+            <idno type="STC">Thomason E284_10</idno>
+            <idno type="STC">ESTC R200058</idno>
+            <idno type="EEBO-CITATION">99860861</idno>
+            <idno type="PROQUEST">99860861</idno>
+            <idno type="VID">112987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112987)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E284[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonel Mittons reply to Lievtenant Colonell Reinkings relation of the taking of Shrewesburie: which was printed without license, though said (in the title thereof) to be published by authority.</title>
+                  <author>Mitton, Thomas, 1597?-1656.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed according to order, by R. Austin,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; place and date of publication from Wing.</note>
+                  <note>A reply to: Reinking, William.  A more exact and particular relation of the taking of Shrewsbury.</note>
+                  <note>Signatures: A² .</note>
+                  <note>Annotation on Thomason copy: "May 15 1645".</note>
+                  <note>Print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Reinking, William. --  More exact and particular relation of the taking of Shrewsbury, then hath hitherto been published --  Early works to 1800.</term>
+               <term>Shrewsbury (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:112987:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="1" facs="tcp:112987:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>Colonell Mittons Reply TO Lievtenant-Colonell <hi>Reinkings</hi> Relation OF <hi>The taking of Shrewesburie:</hi>
+Which was printed without Licenſe, though ſaid (in the Title thereof) to be publiſhed by Authority</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE laying of a deſign for the taking of the Town of Shrews bury, was in agitation ſeverall wayes, both by the Commit<g ref="char:EOLunhyphen"/>tee, and my ſelf, they ſent unto Of weſtrey for me to Wem to conſult about it; M. <hi>Huſon</hi> (a Miniſter) was the onely man that firſt adviſed us to this way, wherein God gave us the towne: after ward one Captain <hi>Willier</hi> ſeconded him therein.</p>
+            <p>The firſt attempt we indeavoured to make upon the town, was the 14 of February, but the darkneſſe of the night (and the ill mannaging of the march) by Lievtenant. Col. <hi>Reinking</hi> retarded the buſineſſe ſo much, that we were faine to retreat for that time.</p>
+            <p>Next day being Saturday, in the afternoon, the reſt of the Gentlement of the Committee and my ſelfe fell in councell how to go on with the deſigne a<g ref="char:EOLhyphen"/>gaine, and ſent for Lievtenant Col. <hi>Reinking,</hi> M. <hi>Huſon,</hi> Captain <hi>Willier,</hi> and others to advice with us.</p>
+            <p>We did agree to go the next night; being the Sabbath, to ſurprize the Ca<g ref="char:EOLhyphen"/>ſtle,
+<pb n="2" facs="tcp:112987:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 8 -->being much troubled, leaſt any of the well-affected in the Town <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuffer by reaſon of our former attempt.</p>
+            <p>They that ſhould have gone with me, were the foreſaid Lievtenant-Colo<g ref="char:EOLhyphen"/>nell, M. <hi>Huſon,</hi> and Captain <hi>Willier,</hi> we had likewiſe ſent unto Major <hi>Fen<g ref="char:EOLhyphen"/>nicke,</hi> who was then Governour of Morton Corbet, to go along with us, with what ſtrength he could affoord, to ſecond us with the reſt of the Forces from Wem, and my Horſe; the place were we ſhould have ſcalled the Ca<g ref="char:EOLhyphen"/>ſtle-wall, required ladders five yards long, the ladders we had the night be<g ref="char:EOLhyphen"/>fore were ſo heavy, that they could not be carried under foure men to one of them; whereupon I ſent for the Joyner (that lives in Wem) to me, and gave him order to make ladders of that length, with two of his feaſoned railes, which were ſo light, that one man might carrie one of them a mile with eaſe. But as we were ready to give order to march, word came from Shrewsbury, that they kept out Scouts towards Wem: therfore we thought fit to proceed no further at that time, and ſent likewiſe to countermand Ma<g ref="char:EOLhyphen"/>jor <hi>Fennicke,</hi> who was to meet us upon our march.</p>
+            <p>I ſtayed with them (as I remember) at Wem, till Tueſday in the evening: Vpon the Monday before I went, we did agree to fall upon their Garriſon at Atcham (having great hopes we ſhould gaine it) and did intend to fortifie it ſtrongly, it being a place upon the river of Severne, within two miles of Shrewsbury, which would much annoy the town: but P. <hi>Maurice</hi> being at Cheſter, wee conceived our ſtrength was not ſufficient to defend the place, till we had made it tenable, and did agree to ſend to Sir <hi>William Brereton</hi> to borrow ſome of his Auxiliaries, and ſo for that time I took my leave of the reſt of the Gentlemen of the Committee, and went to my Garriſon to Oſ<g ref="char:EOLhyphen"/>weſtree, they promiſing me, and (Colonell <hi>Hunt</hi> in particular) deſiring that if I had any deſigne, I would make them acquainted, and when they were to go upon any they would acquaint me.</p>
+            <p>Vpon the Friday following they ſent me a Letter to Oſweſtree (about foure in the after-noone I received it) mentioning their march upon a deſigne that night, wherein they deſired me to have an eye upon Prince <hi>Maurice,</hi> leſt he ſhould ſend ſome partie to fall upon them, and wherein they wrote, that they would have a regard to my honour in the firſt place.</p>
+            <p>Between 7 and 8 of the clock, Capt. <hi>Iohn Betton</hi> being with me I ſhewed him the Letter, ſo hee and I adviſing together, wee reſolved ſpeedily to be gone, not making any one acquainted which way we went: I ſent to Liev<g ref="char:EOLhyphen"/>tenant-Colonell <hi>Pope,</hi> to come along with us, who brought with him two
+<pb n="3" facs="tcp:112987:2"/>
+               <!-- PDF PAGE 8 -->or three of his Troop, and I my ſelfe had only one man, but ſent to all my Horſe to follow, which they did with great ſpeed: wee met them upon their march upon the old heath, a mile from the Suburbs, though Lievtenant-Colonell <hi>Reinking</hi> ſets forth, that they were in the Suburbs before I came in unto them: and whereas he ſaith, that he had only two light marches, I cau<g ref="char:EOLhyphen"/>ſed them to put out thirtie and above, asking them if they would ſurprize the towne with light matches: Colonell <hi>Lloyd,</hi> when I ſhewed him the light matches, being alſo much diſpleaſed.</p>
+            <p>Vpon my firſt coming in, I went (as Lieutenant-Colonell <hi>Reinking</hi> re<g ref="char:EOLhyphen"/>ports) to the Gentlemen of the Committee, and ſaluted them, and asked them the reaſon why they had not ſent me more timely notice of the deſigne, they anſwered (and Mr. <hi>Charlton</hi> in particular) that they did only intend to have a ſcrip at Shrewsbury, as they paſſed by: but their greateſt hope was to poſſeſſe themſelves of Atcham.</p>
+            <p>I kept conſtantly with the Horſe, ſometimes with the Gentlemen of the Committee, ſometimes with others: they that came with mee from Oſ<g ref="char:EOLhyphen"/>weſtree and I, being not one from the other all night, according to our pro<g ref="char:EOLhyphen"/>miſe that wee made to one another: this meane while Lievtenant-Colonell <hi>Reinking</hi> went on with the Foot, as he ſets forth, (leaving all the Horſe be<g ref="char:EOLhyphen"/>hind him upon the Heath) I being in the Van of them with Capt. <hi>More,</hi> the All-arme was given unto the towne: whereupon (as Mr. <hi>Huſon</hi> told mee and others) that Leivtenant-Colonell <hi>Reinking</hi> would have gone back, had it not been for him: and thereupon he himſelfe took a ſledge, and went to the Paliſadoes, by whoſe encouragement, and Capt. <hi>Williers,</hi> they went on a<g ref="char:EOLhyphen"/>gaine, and made their way thorow them: The meane while I went on with: the Horſe into the Suburbs, where we found the Lord <hi>Colvill,</hi> and where-we ſtayed neare a quarter of an houre before the Foot could break an iron chaine to let us paſſe to the gate. From thence I marched ſtrait to the gate, where we ſtayed neare upon a quarter of an houre before it was opened, which being done much about the break of day, I entred with the Horſe the firſt my ſelfe, one would have entred before mee, but I wiſhed him to forbeare, which hee did till I entred: wee went direct to wards the maine guard, our Foot being beaten back by them, they verie earneſtly cryed for the Horſe, wee made all haſte poſſible unto their releefe, (thoſe that came with mee from Oſweſtree being ſtill with mee) and Captaine <hi>More</hi> one of the Committee, when wee came into the Hay-ſtreet, wee thought to have entred upon them thorow a narrow paſſage betweene ſome Drapers ſhops, but were beaten thence, and
+<pb n="4" facs="tcp:112987:3"/>
+               <!-- PDF PAGE 9 -->they killed one of our horſes: whereupon Captaine <hi>Iohn Betton</hi> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d us <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> along the Hay-ſtreet, and ſo by <hi>Chads Church,</hi> by which meanes wee ſur<g ref="char:EOLhyphen"/>rounded them: and then, and not till then, they fled.</p>
+            <p>As foon as they were diſperſed, I called for an old Gentleman (my Vn<g ref="char:EOLhyphen"/>cle) that lodged the next houſe to that guard: while I was talking with hion qume of the Committee, and Lievtenant-Colonell <hi>Reinking</hi> went to the Caſtle ſhinking to have it delivered unto them, and did agree upon termes with them thereon: but when they came to ſurrender it, they asked. To whom they ſhould deliver it? the Committee told them. to L. Col. <hi>Rein<g ref="char:EOLhyphen"/>king</hi> they asked, whether I was not there: the Committee anſwered, I was in Towne; they replied, They would not deliver it till I came: where upon the Committee ſent M. <hi>Charlos Langford,</hi> who came in great haſt to me: I went preſently with him, and had it delivered unto me: I my ſelfe went to the gate of the Caſtle, and with my own hands (as they paſſed out) wrote, the names and quality of all the Souldiers therein, and gave the liſt of them to Colonell <hi>Lloyd.</hi>
+            </p>
+            <p>So when they were all gone out, and ſent with a guard to the ſtone bridge, (excepting the Iriſh, upon whom I put a difference in the lift that I gave Ge<g ref="char:EOLhyphen"/>lonell <hi>Lloyd</hi>) I entred the Caſtle firſt, divers others of the Gentlemen of the Committee being there, and followed me.</p>
+            <p>So it will here plainly appeare, that (upon my coming) the order he ſtan<g ref="char:EOLhyphen"/>deth. upon, to be Commander in chiefe, was in valid, I being the ancienteſt Co<g ref="char:EOLhyphen"/>lonell in that County, having a Commiſſion for three Regiments, as alſo that I came in to them a mile before they came into the Suburbs, and that Lievte<g ref="char:EOLhyphen"/>nant-Colonell <hi>Reinking</hi> had more then two lighted matches, and that I took the command of the horſe upon me, and that I led up the horſe to beat the maine guard, which were not beaten away, till the Horſe ſurrounded them, and that the Caſtle was ſurrendred unto me.</p>
+            <p>Theſe things I never intended to have publiſhed, but that Lie<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>nant-Colonell <hi>Reinking</hi> put forth a pamphlet upon Saturday laſt (as I conceive) to my diſhonour: I having formerly written to, and reported in the Houſe of Commons, contrarie to what he cauſed to be printed.</p>
+            <closer>
+               <signed>Tho. Mytton<g ref="char:punc">▪</g>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed according to Order, by <hi>R. Auſtin.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
